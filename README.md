@@ -5,3 +5,9 @@ This assignment will provide practice with a templated vector class, along with 
 For this assignment you will implement a templated class NSequence (New Sequence). It is similar
 to Vector but with a different set of member functions. NSequence can take a primitive data type as its
 item, such as int, string, or other class types, such as IntCell as discussed in class.
+
+# Overview
+The objectives of this project include the following:
+• Get refreshed with C++ features;
+• Get familiar with using function and class templates; and
+• Demonstrate your understanding of recursion and algorithmic complexity.
